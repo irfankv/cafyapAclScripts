@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - ikyalnoo-compressedacl",
+			"uri": "ssh://ikyalnoo-compressedacl/"
+		},
+		{
+			"name": "SSH FS - ikyalnoo-bgl-ws",
+			"uri": "ssh://ikyalnoo-bgl-ws/"
+		}
+	],
+	"settings": {}
+}
