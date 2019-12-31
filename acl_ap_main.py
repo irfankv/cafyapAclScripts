@@ -52,8 +52,6 @@ from acl_base_ap_compress import AclBaseAp
 from pdb import set_trace
 log = CafyLog(name="Acl AP")
 
-#irfan changed this files
-
 class ApData:
     """
     Define all test level global data here. Only initialize.
